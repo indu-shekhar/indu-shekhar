@@ -1,14 +1,5 @@
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="20%" align="center">
-        <img src="https://avatars.githubusercontent.com/u/indu-shekhar?v=4" width="150" style="border-radius: 50%; border: 4px solid #58A6FF; margin-top: 20px;" alt="Indu Shekhar Jha"/>
-      </td>
-      <td width="80%">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Indu%20Shekhar%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Indu%20Shekhar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
 <div align="center">
