@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Indu%20Shekhar%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+%26+Engineering+%40+IIITDM+Kurnool;Problem+Solver+%7C+C%2FC%2B%2B+Developer;AI+%26+ML+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />
-</div>
-
 ## 🚀 About Me
 
 <div align="center">
@@ -25,33 +17,7 @@ Check out my portfolio at **[www.indushekhar.me](https://www.indushekhar.me)** a
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,tensorflow,docker,figma,photoshop&theme=dark" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,jinja,postgres,redis,kafka,supabase,mysql,mongodb,docker,linux,git,github,vscode,tensorflow,pytorch,sklearn,pandas&theme=dark" />
 </div>
 
 <br/>
@@ -180,17 +146,3 @@ Check out my portfolio at **[www.indushekhar.me](https://www.indushekhar.me)** a
 </details>
 
 <br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
-
-<div align="center">
-  <h2>💫 "Building the future, one commit at a time!" 💫</h2>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/> 
-  <br/>
-  <em><strong>Thanks for visiting my profile!</strong> ⭐️ Star repositories that interest you!</em>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source-💚-green?style=for-the-badge"/>
-</div>
