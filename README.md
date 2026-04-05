@@ -17,7 +17,7 @@ Check out my portfolio at **[www.indushekhar.me](https://www.indushekhar.me)** a
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,jinja,postgres,redis,kafka,supabase,mysql,mongodb,docker,linux,git,github,vscode,tensorflow,pytorch,sklearn,pandas&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,jinja,postgres,redis,kafka,supabase,mysql,mongodb,docker,linux,git,github,vscode,tensorflow,pytorch,scikitlearn&theme=dark" />
 </div>
 
 <br/>
