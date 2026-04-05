@@ -20,7 +20,7 @@ Check out my portfolio at **[indushekhar.tech](https://www.indushekhar.tech)** a
 
 ## 📊 GitHub Analytics Grid
 
-<table width="100%">
+<!-- <table width="100%">
   <tr>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=indu-shekhar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="100%"/>
@@ -29,7 +29,7 @@ Check out my portfolio at **[indushekhar.tech](https://www.indushekhar.tech)** a
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indu-shekhar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="100%"/>
     </td>
   </tr>
-</table>
+</table> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=indu-shekhar&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA500&currStreakLabel=FFA500" width="70%"/>
