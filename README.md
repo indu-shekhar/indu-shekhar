@@ -1,9 +1,5 @@
 ## 🚀 About Me
 
-<div align="center">
-  <img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-</div>
-
 Hey there! 👋 I'm **Indu Shekhar Jha**, a passionate Computer Science student at **IIITDM Kurnool**. I love solving complex problems through elegant code and building innovative solutions. My journey spans from crafting efficient algorithms in **C/C++** to exploring the fascinating world of **AI and Machine Learning**.
 
 Beyond coding, I'm committed to helping fellow students through my **Students Offer** project, where I curate valuable resources and tools. When I'm not debugging code, you'll find me on the **football field** or at the gym **powerlifting** – both keep me energized and focused.
