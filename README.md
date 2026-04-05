@@ -6,7 +6,7 @@ Beyond coding, I'm committed to helping fellow students through my **Students Of
 
 I also enjoy creating **colorful bit art**, blending my technical skills with artistic expression. Currently focused on full-stack development and advancing my data science expertise.
 
-Check out my portfolio at **[www.indushekhar.me](https://www.indushekhar.me)** and feel free to reach out at **[contact@indushekhar.me](mailto:contact@indushekhar.me)**!
+Check out my portfolio at **[indushekhar.tech](https://www.indushekhar.tech)** and feel free to reach out at **[contact@indushekhar.me](mailto:contact@indushekhar.me)**!
 
 <br clear="both"/>
 
