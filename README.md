@@ -6,7 +6,7 @@ Beyond coding, I'm committed to helping fellow students through my **Students Of
 
 I also enjoy creating **colorful bit art**, blending my technical skills with artistic expression. Currently focused on full-stack development and advancing my data science expertise.
 
-Check out my portfolio at **[indushekhar.tech](https://www.indushekhar.tech)** and feel free to reach out at **[contact@indushekhar.me](mailto:contact@indushekhar.me)**!
+Check out my portfolio at **[indushekhar.tech](https://www.indushekhar.tech)** and feel free to reach out at **[contact@indushekhar.tech](mailto:contact@indushekhar.tech)**!
 
 <br clear="both"/>
 
@@ -85,7 +85,7 @@ Check out my portfolio at **[indushekhar.tech](https://www.indushekhar.tech)** a
     <tr>
       <td align="center" width="50%">
         <h3>🌐 Portfolio Website</h3>
-        <a href="https://www.indushekhar.me" target="_blank">
+        <a href="https://www.indushekhar.tech" target="_blank">
           <img src="https://img.shields.io/badge/Visit_Portfolio-FF5733?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
         </a>
         <br/>
@@ -100,7 +100,7 @@ Check out my portfolio at **[indushekhar.tech](https://www.indushekhar.tech)** a
           <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
         </a>
         <br/>
-        <a href="mailto:contact@indushekhar.me" target="_blank">
+        <a href="mailto:contact@indushekhar.tech" target="_blank">
           <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
         </a>
       </td>
